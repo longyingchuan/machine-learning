@@ -2,14 +2,9 @@
 """
 Created on Tue Apr  9 23:00:25 2019
 
-@author: admin
-"""
+@author: cxt
 
-# -*- coding: utf-8 -*-
-"""
-Spyder Editor
-
-This is a temporary script file.
+线性回归代码实现
 """
 
 import pandas as pd
